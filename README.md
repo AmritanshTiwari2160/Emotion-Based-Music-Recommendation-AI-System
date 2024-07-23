@@ -8,7 +8,7 @@ An AI-driven web application that detects user emotions through facial expressio
 3. Music Recommendation: Recommends music based on detected emotions, selected singer, and preferred language by directing users to relevant YouTube videos.
 4. Interactive Web Interface: Developed with Flask to provide a seamless user interface for selecting preferences and viewing recommendations.
    
-**Technologies Used:**
+**Technologies Used:** </br>
 Frontend: HTML, CSS, JavaScript</br>
 Backend: Flask (Python)</br>
 Machine Learning: Keras, TensorFlow</br>
