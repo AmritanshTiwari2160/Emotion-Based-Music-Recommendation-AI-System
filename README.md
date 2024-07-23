@@ -1,4 +1,4 @@
-# Emotion-Based Music Recommendation AI System 🎵😃
+# Emotion-Based Music Recommendation AI System🎵😃
 
 An AI-driven web application that detects user emotions through facial expressions and recommends music accordingly. This project leverages computer vision, deep learning, and web development technologies to create an interactive and engaging user experience.
 
@@ -9,10 +9,10 @@ An AI-driven web application that detects user emotions through facial expressio
 4. Interactive Web Interface: Developed with Flask to provide a seamless user interface for selecting preferences and viewing recommendations.
    
 **Technologies Used:**
-Frontend: HTML, CSS, JavaScript
-Backend: Flask (Python)
-Machine Learning: Keras, TensorFlow
-Computer Vision: OpenCV
+Frontend: HTML, CSS, JavaScript</br>
+Backend: Flask (Python)</br>
+Machine Learning: Keras, TensorFlow</br>
+Computer Vision: OpenCV</br>
 Deployment: Webbrowser module for opening YouTube links
 
 
