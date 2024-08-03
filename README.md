@@ -9,10 +9,9 @@ An AI-driven web application that detects user emotions through facial expressio
 4. Interactive Web Interface: Developed with Flask to provide a seamless user interface for selecting preferences and viewing recommendations.
    
 **Technologies Used:** </br>
-Frontend: HTML, CSS, JavaScript</br>
-Backend: Flask (Python)</br>
-Machine Learning: Keras, TensorFlow</br>
-Computer Vision: OpenCV</br>
-Deployment: Webbrowser module for opening YouTube links
+Machine Learning: Keras, TensorFlow, NumPy</br>
+Computer Vision: OpenCV, Mediapipe</br>
+Model Storage and Serialization: HDF5, Numpy Files</br>
+Deployment: Streamlit, Streamlit-webrtc, Webbrowser module for opening YouTube links
 
 
